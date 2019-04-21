@@ -32,7 +32,7 @@ namespace TripTracker.BackService
             services.AddSwaggerGen(c => 
             { 
                 c.SwaggerDoc("v1", new  OpenApiInfo { Title = "Trip Tracker", Version = "v1" });
-            });
+            });dsdsd
 
             //services.AddTransient<Models.Repository>();
         }
